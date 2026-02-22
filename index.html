@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lobster Mario - Underwater Adventure</title>
+    <meta name="description" content="A fun underwater platformer where you play as a Lobster!">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #0a0a2e;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            overflow: hidden;
+        }
+
+        #gameCanvas {
+            border: 3px solid #00bcd4;
+            border-radius: 8px;
+            box-shadow: 0 0 40px rgba(0, 188, 212, 0.4);
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <canvas id="gameCanvas" width="800" height="500"></canvas>
+    <script src="game.js"></script>
+</body>
+
+</html>
