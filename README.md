@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Lobster Mario Gameplay](grabgame/)
+![Lobster Mario Gameplay](grabgame/index.html)
 
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-f7df1e?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5 Canvas](https://img.shields.io/badge/Renderer-HTML5%20Canvas-e34c26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
@@ -208,6 +208,7 @@ MIT License © 2025 — Free to use, modify, and distribute.
 *If this made you smile, give it a ⭐ — it helps others find the game!*
 
 </div>
+
 
 
 
